@@ -1,0 +1,5 @@
+{
+  "name": "Filament Art Generator",
+  "description": "A generative art application that creates textured, filamentous patterns using Gaussian distribution and canvas drawing.",
+  "requestFramePermissions": []
+}
